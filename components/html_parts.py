@@ -100,7 +100,7 @@ body_beginning = dedent("""\
                 <p style="font-size: 20pt;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་ཁྲིད་ལྔ་པ། </p>
           <p style="font-size: 20pt;"><a href="#tsiksum21">གནད་གསུམ་པའི་འགོ་ཁོ་ནའོ།</a></p>
 
-<p style="font-size: 25pt; color: brown;"༈ འགྲེལ་བའི་ཚིག་ལ་མ་གཟིགས་ནས་འགྲེལ་བ་གནང་བ་གཅིག།</p>
+<p style="font-size: 25pt; color: brown;">༈ འགྲེལ་བའི་ཚིག་ལ་མ་གཟིགས་ནས་འགྲེལ་བ་གནང་བ་གཅིག།</p>
                 <p style="font-size: 20pt;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་དོན་འགྲེལ། </p>
           <p style="font-size: 20pt;">  <a href="#tsiksum22">སྒྲ་དང་པོ།</a> 
                                         <a href="#tsiksum23">སྒྲ་གཉིས་པ།</a> 
