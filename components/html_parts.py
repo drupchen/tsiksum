@@ -59,7 +59,7 @@ body_beginning = dedent("""\
       <body>
           <p style="font-size: 32pt; text-align: center; color: brown;">༄༅། །ཚིག་གསུམ་གནད་བརྡེག་གི་ལྗགས་ཁྲིད་གཞུང་ཚིག་དང་བསྡེབས་པ་བཞུགས།།</p>
 
-<p style="font-size: 25pt; color: brown;">༈ འགྲེལ་བ་ཆ་ཚང་བ་བཞི།</p>        
+<p style="font-size: 25pt; color: brown;">༈ འགྲེལ་བའི་ལྗགས་ཁྲིད་ཆ་ཚང་བ་བཞི།</p>        
                 <p style="font-size: 20pt;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་ཁྲིད་དང་པོ། </p>
           <p style="font-size: 20pt;">  <a href="#tsiksum1">སྒྲ་དང་པོ།</a><span style="font-family:arial; font-size: 20px;">27:38</span> 
                                         <a href="#tsiksum2">སྒྲ་གཉིས་པ།</a><span style="font-family:arial; font-size: 20px;">14:05</span> 
@@ -83,7 +83,7 @@ body_beginning = dedent("""\
                                         <a href="#tsiksum14">སྒྲ་བཞི་པ།</a><span style="font-family:arial; font-size: 20px;">9:17</span> 
                                         <a href="#tsiksum15">སྒྲ་ལྔ་པའོ།</a><span style="font-family:arial; font-size: 20px;">6:43</span></p>
 
-<p style="font-size: 25pt; color: brown;">༈ སེང་བྲག་རིན་པོ་ཆེ་ནས་སྒྲ་ཕབ་གནང་བ་མ་བརྩིས་པའི་འགྲེལ་བ་ཆ་མ་ཚང་བ་ལྔ།</p>                                        
+<p style="font-size: 25pt; color: brown;">༈ སེང་བྲག་རིན་པོ་ཆེ་ནས་སྒྲ་ཕབ་གནང་བ་མ་བརྩིས་པའི་འགྲེལ་བའི་ལྗགས་ཁྲིད་ཆ་མ་ཚང་བ་ལྔ།</p>                                        
                 <p style="font-size: 20pt;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་ཁྲིད་བཞི་པ། </p>
           <p style="font-size: 20pt;">  <a href="#tsiksum16">སྒྲ་དང་པོ།</a><span style="font-family:arial; font-size: 20px;">17:07</span> 
                                         <a href="#tsiksum17">སྒྲ་གཉིས་པ་གནད་དང་པོའི་མཇུག་བར་རོ།</a><span style="font-family:arial; font-size: 20px;">9:00</span></p>
@@ -100,7 +100,7 @@ body_beginning = dedent("""\
                 <p style="font-size: 20pt;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་ཁྲིད་ལྔ་པ། </p>
           <p style="font-size: 20pt;"><a href="#tsiksum21">གནད་གསུམ་པའི་འགོ་ཁོ་ནའོ།</a><span style="font-family:arial; font-size: 20px;">2:19</span></p>
 
-<p style="font-size: 25pt; color: brown;">༈ འགྲེལ་བའི་ཚིག་ལ་མ་གཟིགས་ནས་འགྲེལ་བ་གནང་བ་གཅིག།</p>
+<p style="font-size: 25pt; color: brown;">༈ འགྲེལ་བའི་ཚིག་ལ་མ་གཟིགས་ནས་ལྗགས་ཁྲིད་གནང་བ་གཅིག།</p>
                 <p style="font-size: 20pt;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་དོན་འགྲེལ། </p>
           <p style="font-size: 20pt;">  <a href="#tsiksum22">སྒྲ་དང་པོ།</a><span style="font-family:arial; font-size: 20px;">15:26</span> 
                                         <a href="#tsiksum23">སྒྲ་གཉིས་པ།</a><span style="font-family:arial; font-size: 20px;">31:00</span> 
@@ -113,7 +113,7 @@ body_beginning = dedent("""\
                                         <a href="#tsiksum30">སྒྲ་དགུ་པ།</a><span style="font-family:arial; font-size: 20px;">22:28</span> 
                                         <a href="#tsiksum31">སྒྲ་བཅུ་པའོ།</a><span style="font-family:arial; font-size: 20px;">14:45</span></p>
 
-<p style="font-size: 25pt; color: brown;">༈ འགྲེལ་བའི་ཁྲིད་ལུང་གཉིས།</p>
+<p style="font-size: 25pt; color: brown;">༈ འགྲེལ་བའི་ཁྲིད་ལུང་གནང་བ་གཉིས།</p>
                 <p style="font-size: 20pt;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་ཁྲིད་ལུང་དང་པོ། </p>
           <p style="font-size: 20pt;">  <a href="#tsiksum32">སྒྲ་དང་པོ།</a><span style="font-family:arial; font-size: 20px;">24:53</span> 
                                         <a href="#tsiksum33">སྒྲ་གཉིས་པ།</a><span style="font-family:arial; font-size: 20px;">1:31</span> 
@@ -127,14 +127,14 @@ body_beginning = dedent("""\
                                         <a href="#tsiksum39">སྒྲ་གསུམ་པ།</a><span style="font-family:arial; font-size: 20px;">8:09</span> 
                                         <a href="#tsiksum40">སྒྲ་བཞི་པའོ།</a><span style="font-family:arial; font-size: 20px;">4:13</span></p>
 
-<p style="font-size: 25pt; color: brown;">༈ རྩ་བའི་ཁྲིད་ལུང་གཉིས།</p>
+<p style="font-size: 25pt; color: brown;">༈ རྩ་བའི་ཁྲིད་ལུང་གནང་བ་གཉིས།</p>
                 <p style="font-size: 20pt;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་རྩ་བའི་ཁྲིད་ལུང་བསྡུས་པ་དང་པོ། </p>
           <p style="font-size: 20pt;">  <a href="#tsiksum41">སྒྲ་གཅིག་པུའོ།</a><span style="font-family:arial; font-size: 20px;">41:18</span></p>
           
                 <p style="font-size: 20pt;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་རྩ་བའི་ཁྲིད་ལུང་བསྡུས་པ་གཉིས་པ། </p>
           <p style="font-size: 20pt;"><a href="#tsiksum42">སྒྲ་གཅིག་པུའོ།</a><span style="font-family:arial; font-size: 20px;">21:51</span></p>
 
-<p style="font-size: 25pt; color: brown;">༈ གནད་རེ་རེའི་མདོ་དོན་ཅན་གྱི་ཁྲིད་ལུང་གཅིག།</p>
+<p style="font-size: 25pt; color: brown;">༈ རྩ་བའི་ཁྲིད་ལུང་གནད་རེ་རེ་ལ་མདོ་དོན་རེ་རེ་གསུངས་པ་གཅིག།</p>
                 <p style="font-size: 20pt;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་རྩ་བ་གནད་རེ་རེའི་མདོ་དོན་ཅན། </p>
           <p style="font-size: 20pt;"><a href="#tsiksum43">སྒྲ་གཅིག་པུའོ།</a><span style="font-family:arial; font-size: 20px;">7:14</span><br></p><br><br><br>
           """)
