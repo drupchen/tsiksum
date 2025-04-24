@@ -61,82 +61,82 @@ body_beginning = dedent("""\
 
 <p style="font-size: 25pt; color: brown;">༈ འགྲེལ་བ་ཆ་ཚང་བ་བཞི།</p>        
                 <p style="font-size: 20pt;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་ཁྲིད་དང་པོ། </p>
-          <p style="font-size: 20pt;">  <a href="#tsiksum1">སྒྲ་དང་པོ།</a> 
-                                        <a href="#tsiksum2">སྒྲ་གཉིས་པ།</a> 
-                                        <a href="#tsiksum3">སྒྲ་གསུམ་པའོ།</a></p>
+          <p style="font-size: 20pt;">  <a href="#tsiksum1">སྒྲ་དང་པོ།</a><span style="font-family:arial; font-size: 20px;">27:38</span> 
+                                        <a href="#tsiksum2">སྒྲ་གཉིས་པ།</a><span style="font-family:arial; font-size: 20px;">14:05</span> 
+                                        <a href="#tsiksum3">སྒྲ་གསུམ་པའོ།</a><span style="font-family:arial; font-size: 20px;">9:51</span></p>
 
                 <p><p style="font-size: 20pt;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་ཁྲིད་གསུམ་པ། </p>
-          <p style="font-size: 20pt;">  <a href="#tsiksum4">སྒྲ་དང་པོ།</a> 
-                                        <a href="#tsiksum5">སྒྲ་གཉིས་པ།</a> 
-                                        <a href="#tsiksum6">སྒྲ་གསུམ་པའོ།</a></p>
+          <p style="font-size: 20pt;">  <a href="#tsiksum4">སྒྲ་དང་པོ།</a><span style="font-family:arial; font-size: 20px;">17:51</span> 
+                                        <a href="#tsiksum5">སྒྲ་གཉིས་པ།</a><span style="font-family:arial; font-size: 20px;">17:16</span> 
+                                        <a href="#tsiksum6">སྒྲ་གསུམ་པའོ།</a><span style="font-family:arial; font-size: 20px;">11:25</span></p>
                                         
                 <p style="font-size: 20pt;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་ཁྲིད་དྲུག་པ། </p>
-          <p style="font-size: 20pt;">  <a href="#tsiksum7">སྒྲ་དང་པོ།</a> 
-                                        <a href="#tsiksum8">སྒྲ་གཉིས་པ།</a> 
-                                        <a href="#tsiksum9">སྒྲ་གསུམ་པ།</a> 
-                                        <a href="#tsiksum10">སྒྲ་བཞི་པའོ།</a></p>
+          <p style="font-size: 20pt;">  <a href="#tsiksum7">སྒྲ་དང་པོ།</a><span style="font-family:arial; font-size: 20px;">2:34</span> 
+                                        <a href="#tsiksum8">སྒྲ་གཉིས་པ།</a><span style="font-family:arial; font-size: 20px;">7:51</span> 
+                                        <a href="#tsiksum9">སྒྲ་གསུམ་པ།</a><span style="font-family:arial; font-size: 20px;">10:08</span> 
+                                        <a href="#tsiksum10">སྒྲ་བཞི་པའོ།</a><span style="font-family:arial; font-size: 20px;">6:46</span></p>
                                         
                 <p style="font-size: 20pt;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་ཁྲིད་བཅུ་པ། </p>
-          <p style="font-size: 20pt;">  <a href="#tsiksum11">སྒྲ་དང་པོ།</a> 
-                                        <a href="#tsiksum12">སྒྲ་གཉིས་པ།</a> 
-                                        <a href="#tsiksum13">སྒྲ་གསུམ་པ།</a> 
-                                        <a href="#tsiksum14">སྒྲ་བཞི་པ།</a> 
-                                        <a href="#tsiksum15">སྒྲ་ལྔ་པའོ།</a></p>
+          <p style="font-size: 20pt;">  <a href="#tsiksum11">སྒྲ་དང་པོ།</a><span style="font-family:arial; font-size: 20px;">31:52</span> 
+                                        <a href="#tsiksum12">སྒྲ་གཉིས་པ།</a><span style="font-family:arial; font-size: 20px;">14:27</span> 
+                                        <a href="#tsiksum13">སྒྲ་གསུམ་པ།</a><span style="font-family:arial; font-size: 20px;">4:26</span> 
+                                        <a href="#tsiksum14">སྒྲ་བཞི་པ།</a><span style="font-family:arial; font-size: 20px;">9:17</span> 
+                                        <a href="#tsiksum15">སྒྲ་ལྔ་པའོ།</a><span style="font-family:arial; font-size: 20px;">6:43</span></p>
 
 <p style="font-size: 25pt; color: brown;">༈ སེང་བྲག་རིན་པོ་ཆེ་ནས་སྒྲ་ཕབ་གནང་བ་མ་བརྩིས་པའི་འགྲེལ་བ་ཆ་མ་ཚང་བ་ལྔ།</p>                                        
                 <p style="font-size: 20pt;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་ཁྲིད་བཞི་པ། </p>
-          <p style="font-size: 20pt;">  <a href="#tsiksum16">སྒྲ་དང་པོ།</a> 
-                                        <a href="#tsiksum17">སྒྲ་གཉིས་པ་གནད་དང་པོའི་མཇུག་བར་རོ།</a></p>
+          <p style="font-size: 20pt;">  <a href="#tsiksum16">སྒྲ་དང་པོ།</a><span style="font-family:arial; font-size: 20px;">17:07</span> 
+                                        <a href="#tsiksum17">སྒྲ་གཉིས་པ་གནད་དང་པོའི་མཇུག་བར་རོ།</a><span style="font-family:arial; font-size: 20px;">9:00</span></p>
           
                 <p style="font-size: 20pt;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་ཁྲིད་བརྒྱད་པ། </p>
-          <p style="font-size: 20pt;"><a href="#tsiksum18">གནད་གསུམ་མདོར་བསྟན་པ་ནས་གནད་དང་པོའི་མཇུག་བར་རོ།</a><br></p>
+          <p style="font-size: 20pt;"><a href="#tsiksum18">གནད་གསུམ་མདོར་བསྟན་པ་ནས་གནད་དང་པོའི་མཇུག་བར་རོ།</a><span style="font-family:arial; font-size: 20px;">40:58</span></p>
 
                 <p style="font-size: 20pt;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་ཁྲིད་བདུན་པ། </p>
-          <p style="font-size: 20pt;"><a href="#tsiksum19">གནད་གཉིས་པའི་དཀྱིལ་ནས་མཇུག་བྱང་བར་རོ།</a><br></p>
+          <p style="font-size: 20pt;"><a href="#tsiksum19">གནད་གཉིས་པའི་དཀྱིལ་ནས་མཇུག་བྱང་བར་རོ།</a><span style="font-family:arial; font-size: 20px;">18:50</span></p>
 
                 <p style="font-size: 20pt;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་ཁྲིད་གཉིས་པ། </p>
-          <p style="font-size: 20pt;"><a href="#tsiksum20">གནད་གསུམ་པ་དང་མཇུག་དོན་ནོ།</a></p>
+          <p style="font-size: 20pt;"><a href="#tsiksum20">གནད་གསུམ་པ་དང་མཇུག་དོན་ནོ།</a><span style="font-family:arial; font-size: 20px;">11:10</span></p>
 
                 <p style="font-size: 20pt;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་ཁྲིད་ལྔ་པ། </p>
-          <p style="font-size: 20pt;"><a href="#tsiksum21">གནད་གསུམ་པའི་འགོ་ཁོ་ནའོ།</a></p>
+          <p style="font-size: 20pt;"><a href="#tsiksum21">གནད་གསུམ་པའི་འགོ་ཁོ་ནའོ།</a><span style="font-family:arial; font-size: 20px;">2:19</span></p>
 
 <p style="font-size: 25pt; color: brown;">༈ འགྲེལ་བའི་ཚིག་ལ་མ་གཟིགས་ནས་འགྲེལ་བ་གནང་བ་གཅིག།</p>
                 <p style="font-size: 20pt;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་དོན་འགྲེལ། </p>
-          <p style="font-size: 20pt;">  <a href="#tsiksum22">སྒྲ་དང་པོ།</a> 
-                                        <a href="#tsiksum23">སྒྲ་གཉིས་པ།</a> 
-                                        <a href="#tsiksum24">སྒྲ་གསུམ་པ།</a> 
-                                        <a href="#tsiksum25">སྒྲ་བཞི་པ།</a> 
-                                        <a href="#tsiksum26">སྒྲ་ལྔ་པ།</a> 
-                                        <a href="#tsiksum27">སྒྲ་དྲུག་པ།</a> 
-                                        <a href="#tsiksum28">སྒྲ་བདུན་པ།</a> 
-                                        <a href="#tsiksum29">སྒྲ་བརྒྱད་པ།</a> 
-                                        <a href="#tsiksum30">སྒྲ་དགུ་པ།</a> 
-                                        <a href="#tsiksum31">སྒྲ་བཅུ་པའོ།</a></p>
+          <p style="font-size: 20pt;">  <a href="#tsiksum22">སྒྲ་དང་པོ།</a><span style="font-family:arial; font-size: 20px;">15:26</span> 
+                                        <a href="#tsiksum23">སྒྲ་གཉིས་པ།</a><span style="font-family:arial; font-size: 20px;">31:00</span> 
+                                        <a href="#tsiksum24">སྒྲ་གསུམ་པ།</a><span style="font-family:arial; font-size: 20px;">12:57</span> 
+                                        <a href="#tsiksum25">སྒྲ་བཞི་པ།</a><span style="font-family:arial; font-size: 20px;">18:40</span> 
+                                        <a href="#tsiksum26">སྒྲ་ལྔ་པ།</a><span style="font-family:arial; font-size: 20px;">14:49</span> 
+                                        <a href="#tsiksum27">སྒྲ་དྲུག་པ།</a><span style="font-family:arial; font-size: 20px;">13:44</span> 
+                                        <a href="#tsiksum28">སྒྲ་བདུན་པ།</a><span style="font-family:arial; font-size: 20px;">10:28</span> 
+                                        <a href="#tsiksum29">སྒྲ་བརྒྱད་པ།</a><span style="font-family:arial; font-size: 20px;">21:30</span> 
+                                        <a href="#tsiksum30">སྒྲ་དགུ་པ།</a><span style="font-family:arial; font-size: 20px;">22:28</span> 
+                                        <a href="#tsiksum31">སྒྲ་བཅུ་པའོ།</a><span style="font-family:arial; font-size: 20px;">14:45</span></p>
 
 <p style="font-size: 25pt; color: brown;">༈ འགྲེལ་བའི་ཁྲིད་ལུང་གཉིས།</p>
                 <p style="font-size: 20pt;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་ཁྲིད་ལུང་དང་པོ། </p>
-          <p style="font-size: 20pt;">  <a href="#tsiksum32">སྒྲ་དང་པོ།</a> 
-                                        <a href="#tsiksum33">སྒྲ་གཉིས་པ།</a> 
-                                        <a href="#tsiksum34">སྒྲ་གསུམ་པ།</a> 
-                                        <a href="#tsiksum35">སྒྲ་བཞི་པ།</a> 
-                                        <a href="#tsiksum36">སྒྲ་ལྔ་པའོ།</a></p>
+          <p style="font-size: 20pt;">  <a href="#tsiksum32">སྒྲ་དང་པོ།</a><span style="font-family:arial; font-size: 20px;">24:53</span> 
+                                        <a href="#tsiksum33">སྒྲ་གཉིས་པ།</a><span style="font-family:arial; font-size: 20px;">1:31</span> 
+                                        <a href="#tsiksum34">སྒྲ་གསུམ་པ།</a><span style="font-family:arial; font-size: 20px;">10:21</span> 
+                                        <a href="#tsiksum35">སྒྲ་བཞི་པ།</a><span style="font-family:arial; font-size: 20px;">8:30</span> 
+                                        <a href="#tsiksum36">སྒྲ་ལྔ་པའོ།</a><span style="font-family:arial; font-size: 20px;">6:44</span></p>
                                         
                 <p style="font-size: 20pt;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་ཁྲིད་ལུང་གཉིས་པ། </p>
-          <p style="font-size: 20pt;"><a href="#tsiksum37">སྒྲ་དང་པོ།</a>
-                                        <a href="#tsiksum38">སྒྲ་གཉིས་པ།</a>
-                                        <a href="#tsiksum39">སྒྲ་གསུམ་པ།</a>
-                                        <a href="#tsiksum40">སྒྲ་བཞི་པའོ།</a></p>
+          <p style="font-size: 20pt;"><a href="#tsiksum37">སྒྲ་དང་པོ།</a><span style="font-family:arial; font-size: 20px;">35:02</span> 
+                                        <a href="#tsiksum38">སྒྲ་གཉིས་པ།</a><span style="font-family:arial; font-size: 20px;">8:11</span> 
+                                        <a href="#tsiksum39">སྒྲ་གསུམ་པ།</a><span style="font-family:arial; font-size: 20px;">8:09</span> 
+                                        <a href="#tsiksum40">སྒྲ་བཞི་པའོ།</a><span style="font-family:arial; font-size: 20px;">4:13</span></p>
 
 <p style="font-size: 25pt; color: brown;">༈ རྩ་བའི་ཁྲིད་ལུང་གཉིས།</p>
                 <p style="font-size: 20pt;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་རྩ་བའི་ཁྲིད་ལུང་བསྡུས་པ་དང་པོ། </p>
-          <p style="font-size: 20pt;">  <a href="#tsiksum41">སྒྲ་གཅིག་པུའོ།</a></p>
+          <p style="font-size: 20pt;">  <a href="#tsiksum41">སྒྲ་གཅིག་པུའོ།</a><span style="font-family:arial; font-size: 20px;">41:18</span></p>
           
                 <p style="font-size: 20pt;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་རྩ་བའི་ཁྲིད་ལུང་བསྡུས་པ་གཉིས་པ། </p>
-          <p style="font-size: 20pt;"><a href="#tsiksum42">སྒྲ་གཅིག་པུའོ།</a></p>
+          <p style="font-size: 20pt;"><a href="#tsiksum42">སྒྲ་གཅིག་པུའོ།</a><span style="font-family:arial; font-size: 20px;">21:51</span></p>
 
 <p style="font-size: 25pt; color: brown;">༈ གནད་རེ་རེའི་མདོ་དོན་ཅན་གྱི་ཁྲིད་ལུང་གཅིག།</p>
                 <p style="font-size: 20pt;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་རྩ་བ་གནད་རེ་རེའི་མདོ་དོན་ཅན། </p>
-          <p style="font-size: 20pt;"><a href="#tsiksum43">སྒྲ་གཅིག་པུའོ།</a><br></p><br><br><br>
+          <p style="font-size: 20pt;"><a href="#tsiksum43">སྒྲ་གཅིག་པུའོ།</a><span style="font-family:arial; font-size: 20px;">7:14</span><br></p><br><br><br>
           """)
 
 players = [
