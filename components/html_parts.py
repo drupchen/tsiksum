@@ -58,7 +58,7 @@ head = dedent("""\
 body_beginning = dedent("""\
       <body>
           <p style="font-size: 32pt; text-align: center; color: brown;">༄༅། །ཚིག་གསུམ་གནད་བརྡེག་གི་ལྗགས་ཁྲིད་ཐོས་ཀློག་སྦྲགས་མར་བསྒྲིགས་པ་བཞུགས།།</p>
-        
+
 <p style="font-size: 25pt; color: brown;">༈ འགྲེལ་བ་ཆ་ཚང་བ་བཞི།</p>        
                 <p style="font-size: 20pt;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་ཁྲིད་དང་པོ། </p>
           <p style="font-size: 20pt;">  <a href="#tsiksum1">སྒྲ་དང་པོ།</a> 
@@ -83,7 +83,7 @@ body_beginning = dedent("""\
                                         <a href="#tsiksum14">སྒྲ་བཞི་པ།</a> 
                                         <a href="#tsiksum15">སྒྲ་ལྔ་པའོ།</a></p>
 
-<p style="font-size: 25pt; color: brown;">༈ འགྲེལ་བ་ཆ་མ་ཚང་བ་ལྔ།</p>                                        
+<p style="font-size: 25pt; color: brown;">༈ སེང་བྲག་རིན་པོ་ཆེ་ནས་སྒྲ་ཕབ་གནང་བ་མ་བརྩིས་པའི་འགྲེལ་བ་ཆ་མ་ཚང་བ་ལྔ།</p>                                        
                 <p style="font-size: 20pt;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་ཁྲིད་བཞི་པ། </p>
           <p style="font-size: 20pt;">  <a href="#tsiksum16">སྒྲ་དང་པོ།</a> 
                                         <a href="#tsiksum17">སྒྲ་གཉིས་པ་གནད་དང་པོའི་མཇུག་བར་རོ།</a></p>
