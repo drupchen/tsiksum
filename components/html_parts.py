@@ -225,43 +225,43 @@ players = [
           <audio id="hyperplayer21" style="position:relative; width:97%" src="https://kytsodnangdsm.synology.me:5051/fbdownload/tsiksum_commentary_e_unfinished.mp3?tid=%22Km_DrqVZqluLxgYF4U4UdJ8q64DcULskdG8b3PY-VbEuoYmpJM1BmBzaljtHil1MaxpbgplWECZhIf71%22&mode=open&dlink=%222f686f6d652f5473696b73756d204e6564656b2070726f6365737365642f7473696b73756d5f636f6d6d656e746172795f655f756e66696e69736865642e6d7033%22&stdhtml=true&SynoToken=vNiKzAz2rOFeM" type="audio/m4a" controlsList="nodownload" controls></audio>
         """),
         dedent("""\
-          <p id="tsiksum22" style="font-size: 26pt; color: brown;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་དོན་འགྲེལ་དང་པོ། སྒྲ་དང་པོ།</p>         
+          <p id="tsiksum22" style="font-size: 26pt; color: brown;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་དོན་འགྲེལ། སྒྲ་དང་པོ།</p>         
           <audio id="hyperplayer22" style="position:relative; width:97%" src="https://kytsodnangdsm.synology.me:5051/fbdownload/tsiksum_commentary_l_1.mp3?tid=%22Km_DrqVZqluLxgYF4U4UdJ8q64DcULskdG8b3PY-VbEuoYmpJM1BmBzaljtHil1MaxpbgplWECZhIf71%22&mode=open&dlink=%222f686f6d652f5473696b73756d204e6564656b2070726f6365737365642f7473696b73756d5f636f6d6d656e746172795f6c5f312e6d7033%22&stdhtml=true&SynoToken=vNiKzAz2rOFeM" type="audio/m4a" controlsList="nodownload" controls></audio>
         """),
         dedent("""\
-          <p id="tsiksum23" style="font-size: 26pt; color: brown;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་དོན་འགྲེལ་དང་པོ། སྒྲ་གཉིས་པ།</p>         
+          <p id="tsiksum23" style="font-size: 26pt; color: brown;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་དོན་འགྲེལ། སྒྲ་གཉིས་པ།</p>         
           <audio id="hyperplayer23" style="position:relative; width:97%" src="https://kytsodnangdsm.synology.me:5051/fbdownload/tsiksum_commentary_l_2.mp3?tid=%22Km_DrqVZqluLxgYF4U4UdJ8q64DcULskdG8b3PY-VbEuoYmpJM1BmBzaljtHil1MaxpbgplWECZhIf71%22&mode=open&dlink=%222f686f6d652f5473696b73756d204e6564656b2070726f6365737365642f7473696b73756d5f636f6d6d656e746172795f6c5f322e6d7033%22&stdhtml=true&SynoToken=vNiKzAz2rOFeM" type="audio/m4a" controlsList="nodownload" controls></audio>
         """),
         dedent("""\
-          <p id="tsiksum24" style="font-size: 26pt; color: brown;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་དོན་འགྲེལ་དང་པོ། སྒྲ་གསུམ་པ།</p>         
+          <p id="tsiksum24" style="font-size: 26pt; color: brown;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་དོན་འགྲེལ། སྒྲ་གསུམ་པ།</p>         
           <audio id="hyperplayer24" style="position:relative; width:97%" src="https://kytsodnangdsm.synology.me:5051/fbdownload/tsiksum_commentary_l_3.mp3?tid=%22Km_DrqVZqluLxgYF4U4UdJ8q64DcULskdG8b3PY-VbEuoYmpJM1BmBzaljtHil1MaxpbgplWECZhIf71%22&mode=open&dlink=%222f686f6d652f5473696b73756d204e6564656b2070726f6365737365642f7473696b73756d5f636f6d6d656e746172795f6c5f332e6d7033%22&stdhtml=true&SynoToken=vNiKzAz2rOFeM" type="audio/m4a" controlsList="nodownload" controls></audio>
         """),
         dedent("""\
-          <p id="tsiksum25" style="font-size: 26pt; color: brown;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་དོན་འགྲེལ་དང་པོ། སྒྲ་བཞི་པ།</p>         
+          <p id="tsiksum25" style="font-size: 26pt; color: brown;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་དོན་འགྲེལ། སྒྲ་བཞི་པ།</p>         
           <audio id="hyperplayer25" style="position:relative; width:97%" src="https://kytsodnangdsm.synology.me:5051/fbdownload/tsiksum_commentary_l_4.mp3?tid=%22Km_DrqVZqluLxgYF4U4UdJ8q64DcULskdG8b3PY-VbEuoYmpJM1BmBzaljtHil1MaxpbgplWECZhIf71%22&mode=open&dlink=%222f686f6d652f5473696b73756d204e6564656b2070726f6365737365642f7473696b73756d5f636f6d6d656e746172795f6c5f342e6d7033%22&stdhtml=true&SynoToken=vNiKzAz2rOFeM" type="audio/m4a" controlsList="nodownload" controls></audio>
         """),
         dedent("""\
-          <p id="tsiksum26" style="font-size: 26pt; color: brown;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་དོན་འགྲེལ་དང་པོ། སྒྲ་ལྔ་པ།</p>         
+          <p id="tsiksum26" style="font-size: 26pt; color: brown;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་དོན་འགྲེལ། སྒྲ་ལྔ་པ།</p>         
           <audio id="hyperplayer26" style="position:relative; width:97%" src="https://kytsodnangdsm.synology.me:5051/fbdownload/tsiksum_commentary_l_5.mp3?tid=%22Km_DrqVZqluLxgYF4U4UdJ8q64DcULskdG8b3PY-VbEuoYmpJM1BmBzaljtHil1MaxpbgplWECZhIf71%22&mode=open&dlink=%222f686f6d652f5473696b73756d204e6564656b2070726f6365737365642f7473696b73756d5f636f6d6d656e746172795f6c5f352e6d7033%22&stdhtml=true&SynoToken=vNiKzAz2rOFeM" type="audio/m4a" controlsList="nodownload" controls></audio>
         """),
         dedent("""\
-          <p id="tsiksum27" style="font-size: 26pt; color: brown;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་དོན་འགྲེལ་དང་པོ། སྒྲ་དྲུག་པ།</p>         
+          <p id="tsiksum27" style="font-size: 26pt; color: brown;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་དོན་འགྲེལ། སྒྲ་དྲུག་པ།</p>         
           <audio id="hyperplayer27" style="position:relative; width:97%" src="https://kytsodnangdsm.synology.me:5051/fbdownload/tsiksum_commentary_l_6.mp3?tid=%22Km_DrqVZqluLxgYF4U4UdJ8q64DcULskdG8b3PY-VbEuoYmpJM1BmBzaljtHil1MaxpbgplWECZhIf71%22&mode=open&dlink=%222f686f6d652f5473696b73756d204e6564656b2070726f6365737365642f7473696b73756d5f636f6d6d656e746172795f6c5f362e6d7033%22&stdhtml=true&SynoToken=vNiKzAz2rOFeM" type="audio/m4a" controlsList="nodownload" controls></audio>
         """),
         dedent("""\
-          <p id="tsiksum28" style="font-size: 26pt; color: brown;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་དོན་འགྲེལ་དང་པོ། སྒྲ་བདུན་པ།</p>         
+          <p id="tsiksum28" style="font-size: 26pt; color: brown;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་དོན་འགྲེལ། སྒྲ་བདུན་པ།</p>         
           <audio id="hyperplayer28" style="position:relative; width:97%" src="https://kytsodnangdsm.synology.me:5051/fbdownload/tsiksum_commentary_l_7.mp3?tid=%22Km_DrqVZqluLxgYF4U4UdJ8q64DcULskdG8b3PY-VbEuoYmpJM1BmBzaljtHil1MaxpbgplWECZhIf71%22&mode=open&dlink=%222f686f6d652f5473696b73756d204e6564656b2070726f6365737365642f7473696b73756d5f636f6d6d656e746172795f6c5f372e6d7033%22&stdhtml=true&SynoToken=vNiKzAz2rOFeM" type="audio/m4a" controlsList="nodownload" controls></audio>
         """),
         dedent("""\
-          <p id="tsiksum29" style="font-size: 26pt; color: brown;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་དོན་འགྲེལ་དང་པོ། སྒྲ་བརྒྱད་པ།</p>         
+          <p id="tsiksum29" style="font-size: 26pt; color: brown;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་དོན་འགྲེལ། སྒྲ་བརྒྱད་པ།</p>         
           <audio id="hyperplayer29" style="position:relative; width:97%" src="https://kytsodnangdsm.synology.me:5051/fbdownload/tsiksum_commentary_l_8.mp3?tid=%22Km_DrqVZqluLxgYF4U4UdJ8q64DcULskdG8b3PY-VbEuoYmpJM1BmBzaljtHil1MaxpbgplWECZhIf71%22&mode=open&dlink=%222f686f6d652f5473696b73756d204e6564656b2070726f6365737365642f7473696b73756d5f636f6d6d656e746172795f6c5f382e6d7033%22&stdhtml=true&SynoToken=vNiKzAz2rOFeM" type="audio/m4a" controlsList="nodownload" controls></audio>
         """),
         dedent("""\
-          <p id="tsiksum30" style="font-size: 26pt; color: brown;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་དོན་འགྲེལ་དང་པོ། སྒྲ་དགུ་པ།</p>         
+          <p id="tsiksum30" style="font-size: 26pt; color: brown;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་དོན་འགྲེལ། སྒྲ་དགུ་པ།</p>         
           <audio id="hyperplayer30" style="position:relative; width:97%" src="https://kytsodnangdsm.synology.me:5051/fbdownload/tsiksum_commentary_l_9.mp3?tid=%22Km_DrqVZqluLxgYF4U4UdJ8q64DcULskdG8b3PY-VbEuoYmpJM1BmBzaljtHil1MaxpbgplWECZhIf71%22&mode=open&dlink=%222f686f6d652f5473696b73756d204e6564656b2070726f6365737365642f7473696b73756d5f636f6d6d656e746172795f6c5f392e6d7033%22&stdhtml=true&SynoToken=vNiKzAz2rOFeM" type="audio/m4a" controlsList="nodownload" controls></audio>
         """),
         dedent("""\
-          <p id="tsiksum31" style="font-size: 26pt; color: brown;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་དོན་འགྲེལ་དང་པོ། སྒྲ་བཅུ་པའོ།</p>         
+          <p id="tsiksum31" style="font-size: 26pt; color: brown;">ཚིག་གསུམ་གནད་བརྡེག་མཁས་པ་ཤྲཱི་རྒྱལ་པོའི་འགྲེལ་བའི་དོན་འགྲེལ། སྒྲ་བཅུ་པའོ།</p>         
           <audio id="hyperplayer31" style="position:relative; width:97%" src="https://kytsodnangdsm.synology.me:5051/fbdownload/tsiksum_commentary_l_10.mp3?tid=%22Km_DrqVZqluLxgYF4U4UdJ8q64DcULskdG8b3PY-VbEuoYmpJM1BmBzaljtHil1MaxpbgplWECZhIf71%22&mode=open&dlink=%222f686f6d652f5473696b73756d204e6564656b2070726f6365737365642f7473696b73756d5f636f6d6d656e746172795f6c5f31302e6d7033%22&stdhtml=true&SynoToken=vNiKzAz2rOFeM" type="audio/m4a" controlsList="nodownload" controls></audio>
         """),
         dedent("""\
